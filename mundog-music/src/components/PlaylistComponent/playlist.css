@@ -1,0 +1,9 @@
+.playlist {
+    background-color: black;
+    display: flex;
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+}

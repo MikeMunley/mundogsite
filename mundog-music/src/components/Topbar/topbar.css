@@ -1,0 +1,77 @@
+.topbarContainer {
+  color: white;
+  height: 150px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  align-items: center;
+
+  top: 0;
+}
+
+.topbarLeft {
+  flex: 3; 
+}
+
+img {
+height: 70px;
+}
+
+.topbarCenter {
+  flex: 6;
+  text-align: center;
+  align-items: center;
+ 
+}
+
+.follow {
+  background-color: black;
+  border: none;
+}
+
+.follow:hover {
+  background-color: #70767c;
+  border-radius: 4px;
+  transition: all 0.2s ease-out;
+  color: white;
+}
+
+.topbarRight {
+  flex: 3;
+}
+
+.mhbg {
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+
+.topbarImg {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+.socials {
+  justify-content: space-between;
+}
+
+.bigText {
+  font-family: AfterShok;
+
+  width: 100%;
+}
+
+.btn-links {
+  margin-top: 10px;
+}
+
+.mb {
+  background-image: linear-gradient(to bottom right, rgb(208, 217, 219), gray);
+}
+
+.logo {
+  height: 75px;
+  width: auto;
+}
+

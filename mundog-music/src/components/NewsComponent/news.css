@@ -1,0 +1,15 @@
+.pageContainer {
+    background-color: black;
+    top: 0;
+ 
+
+}
+
+.card {
+    background-color: black;
+    color: white;
+}
+
+.bigText {
+    font-size: x-large;
+}

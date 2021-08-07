@@ -1,0 +1,27 @@
+.homeContainer {
+  display: flex;
+  width: 100%;
+  background-color: black;
+}
+
+
+.ticker {
+  background-color: black;
+  position: sticky ;
+  
+}
+
+.mainView {
+  align-items: center;
+  display: flex;
+  background-color: black;
+}
+
+.topper {
+  position: sticky;
+  top: 0;
+}
+
+.app {
+  background-color: black;
+}
